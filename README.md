@@ -44,7 +44,7 @@ PMA_PORT_EXPOSED=8080
 1. Clona o descomprime el proyecto
 2. Navega hasta la carpeta del proyecto:
    ```bash
-   cd "mysql servidor"
+   cd "quick-mysql-docker-stack-main"
    ```
 3. Inicia los contenedores:
    ```bash
